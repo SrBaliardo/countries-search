@@ -1,4 +1,6 @@
 ## 📑 Search and view information about the countries of our globe. First (not easy)complex code React <img align="center" alt="React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg">.
+You can view the project via the link:
+https://countries-search-rho.vercel.app
 
 # How to Use
 
@@ -28,5 +30,5 @@ $ npm start
 
 <br>
 
-You can view the project via the link:
-(link)
+You can view the project via the link:<br>
+https://countries-search-rho.vercel.app
