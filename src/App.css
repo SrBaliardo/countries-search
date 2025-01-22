@@ -1,36 +1,36 @@
 @import url("https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap");
 
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: "Kanit", sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Kanit", sans-serif;
 }
 
 .centralizer {
-    max-width: 1000px;
-    margin: 0 auto;
-    padding: 0 15px;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 0 15px;
 }
 
 .animeBottom {
-    opacity: 0;
-    transform: scale(0.1);
-    animation: bottomAnimation 0.3s ease forwards;
+  opacity: 0;
+  transform: scale(0.1);
+  animation: bottomAnimation 0.3s ease forwards;
 }
 
 @keyframes bottomAnimation {
-    to {
-        opacity: initial;
-        transform: initial;
-    }
+  to {
+    opacity: initial;
+    transform: initial;
+  }
 }
 
 a {
-    text-decoration: none;
-    color: hsl(200, 15%, 8%);
+  text-decoration: none;
+  color: hsl(200, 15%, 8%);
 }
 
 li {
-    list-style: none;
+  list-style: none;
 }
